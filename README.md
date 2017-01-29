@@ -1,5 +1,9 @@
 # Welcome to Essygamer's Roblox Lua Tutorials
 
+## Tutorial 0 - Getting Started with Roblox Scripting
+
+How to get started with scripting in Roblox - [Link](https://essygamer.github.io/roblox-lua-tutorials/blob/master/tutorial0/README.md)
+
 ## Tutorial 1 - Exploding Barrels Run
 
 
