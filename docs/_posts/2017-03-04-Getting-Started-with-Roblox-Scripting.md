@@ -2,7 +2,6 @@
 layout: default
 title:  "Tutorial 1 - Getting Started with Roblox Scripting"
 date:   2017-03-02 16:16:00 -0000
-categories: jekyll update
 ---
 
 # Tutorial 1 - Getting Started with Roblox Scripting

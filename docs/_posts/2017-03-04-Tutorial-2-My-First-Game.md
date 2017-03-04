@@ -2,7 +2,6 @@
 layout: default
 title:  "Tutorial 2 - My First game"
 date:   2017-03-02 16:16:01 -0000
-categories: jekyll update
 ---
 
 # Tutorial 2 - My First game
