@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  "Tutorial 1 - Getting Started with Roblox Scripting"
-date:   2017-03-02 16:16:00 -0000
+date:   2017-03-04 10:16:00 -0000
+categories: tutorials
 ---
 
 # Tutorial 1 - Getting Started with Roblox Scripting

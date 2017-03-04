@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  "Tutorial 2 - My First game"
-date:   2017-03-02 16:16:01 -0000
+date:   2017-03-04 10:16:01 -0000
+categories: tutorials
 ---
 
 # Tutorial 2 - My First game
