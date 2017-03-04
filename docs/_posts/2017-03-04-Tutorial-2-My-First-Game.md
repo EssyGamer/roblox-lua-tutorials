@@ -9,7 +9,7 @@ categories: tutorials
 
 ## Preview the game
 
-<https://www.roblox.com/games/673647904/Island-Bomb>
+<https://www.roblox.com/games/673704119/bomb-on-us>
 
 #### Open project shell
 
