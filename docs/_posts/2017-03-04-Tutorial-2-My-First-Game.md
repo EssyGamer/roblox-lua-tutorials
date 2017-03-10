@@ -10,7 +10,7 @@ categories: tutorials
 ## Preview the game
 Here is a preview of the finished game.
 
-<https://www.roblox.com/games/673647904/Island-Bomb>
+<https://www.roblox.com/games/673704119/bomb-on-us>
 
 ### Open project shell
 To begin this project you need to download the project shell. This contains the platform and the spawn point for players in the game.
