@@ -8,12 +8,28 @@ categories: tutorials
 # Tutorial 2 - My First game
 
 ## Preview the game
+Here is a preview of the finished game.
 
 <https://www.roblox.com/games/673647904/Island-Bomb>
 
-#### Open project shell
+### Open project shell
+To begin this project you need to download the project shell. This contains the platform and the spawn point for players in the game.
 
-#### Add script
+<a href="{{site.baseurl}}/assets/tut2/IslandBomb-ProjectShell.rbxl">Project Shell</a>
+
+Once you have downloaded the project shell, double click on the file and it will open in Roblox.
+
+When you open the file you should see a platform and a spawn point.
+
+To see you player in the game you need to go to the [Play button picture] tab and press the play button.
+
+[Insert picture of game with player]
+
+The game we are making have balls falling from the sky and exploding and random points. To make this happen we need to add a script to the game - this is like adding a script to the background in Scratch.
+
+To add a script in Roblox go to ....
+
+Now that you have you script we need to add code. Below are the steps you should use to build the game. Following each step and press play after you complete a step to see how the world changes.
 
 ### Step 1
 
@@ -138,3 +154,7 @@ while true do
     wait(0.5)
 end
 ```
+
+That's the game finished. If you want you can add houses, trees and other objects to make you world more interesting.
+
+Enjoy.
