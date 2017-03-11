@@ -21,13 +21,19 @@ Once you have downloaded the project shell, double click on the file and it will
 
 When you open the file you should see a platform and a spawn point.
 
-To see you player in the game you need to go to the [Play button picture] tab and press the play button.
+To see you player in the game you need to go to the Test menu at the top and press the play button. ![]({{site.baseurl}}/assets/tut2/play.png?raw=true)
 
-[Insert picture of game with player]
+![]({{site.baseurl}}/assets/tut2/clickplay.png?raw=true)
+
+You should see the platform with the player on the spawn point.
+
+![]({{site.baseurl}}/assets/tut2/world.png?raw=true)
 
 The game we are making have balls falling from the sky and exploding and random points. To make this happen we need to add a script to the game - this is like adding a script to the background in Scratch.
 
-To add a script in Roblox go to ....
+To add a script in Roblox go to the explorer menu and click ServerScriptService -> Insert Object -> Script.
+
+![]({{site.baseurl}}/assets/tut2/addscript.png?raw=true)
 
 Now that you have you script we need to add code. Below are the steps you should use to build the game. Following each step and press play after you complete a step to see how the world changes.
 
