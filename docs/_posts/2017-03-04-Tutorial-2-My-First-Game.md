@@ -31,7 +31,7 @@ You should see the platform with the player on the spawn point.
 
 The game we are making have balls falling from the sky and exploding and random points. To make this happen we need to add a script to the game - this is like adding a script to the background in Scratch.
 
-To add a script in Roblox go to the explorer menu and click ServerScriptService -> Insert Object -> Script.
+To add a script in Roblox go to the explorer menu and Right Click on  ServerScriptService then choose Insert Object and then Script.
 
 ![]({{site.baseurl}}/assets/tut2/addscript.png?raw=true)
 
